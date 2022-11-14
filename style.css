@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#welcome
+{
+    font-family: 'Press Start 2P', cursive;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    background:linear-gradient(blue 10%,purple 49% ,rgb(255, 0, 149) 100%);
+}
+#bonniefnaf1 {
+    height: 20vh;
+    border-radius: 50% ;
+}
+.menu{
+  list-style: none; 
+  position:fixed;
+  width: 100%;
+  top: 0px;
+  background:black;
+  margin-top: 0px;
+  z-index: 10; 
+}
+.itens{
+    font-family: 'DotGothic16', sans-serif;
+    display: inline;
+    color: rgb(255, 255, 255);
+padding-left: 33px;
+padding-right: 25px;
+}
+    #jogos h1{
+ font-family :'Press Start 2P', cursive;  
+    }
+    .tipo_de_contatu{
+        font-family: 'Bungee Inline', cursive;
+    }
+    #jogos img{
+        height:30vh ;
+    }
